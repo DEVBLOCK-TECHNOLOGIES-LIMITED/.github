@@ -1,110 +1,63 @@
 # DevBlock Technologies
 
-> Building software that moves businesses forward.
+> AI-native software engineering — from infrastructure to interface.
 
-DevBlock Technologies is a full-service software development company dedicated to crafting high-quality, scalable, and innovative digital solutions for businesses of all sizes. From early-stage startups to enterprise organizations, we partner with our clients to turn ideas into powerful software products.
-
----
-
-## 🚀 What We Do
-
-We specialize in end-to-end software development across a wide range of domains:
-
-- **Custom Software Development** — Tailored applications built to fit your unique business needs.
-- **Web Development** — Responsive, performant web applications using modern frameworks and best practices.
-- **Mobile Development** — Native and cross-platform mobile apps for iOS and Android.
-- **Cloud Solutions** — Architecture, migration, and management of cloud infrastructure.
-- **API Design & Integration** — RESTful and GraphQL APIs built for reliability and scalability.
-- **UI/UX Design** — Intuitive, user-centered design that drives engagement.
-- **DevOps & CI/CD** — Streamlined pipelines that keep your team shipping fast and confidently.
+DevBlock Technologies builds AI-powered platforms and developer tools that turn complex workflows into simple, scalable products. We operate at the intersection of cloud infrastructure, applied AI, and product engineering.
 
 ---
 
-## 🛠️ Our Tech Stack
+## Products
 
-We work with a broad set of technologies and adapt to the needs of each project:
+| Product | Description |
+|---|---|
+| **DevBlock Console** | Unified management dashboard for DevBlock SDK integrations — real-time observability, analytics, and operations |
+| **PayIQ** | The Global AI Banking Concierge — intelligent financial services platform |
+| **ConverseIQ** | LLM-powered backend services for intelligent conversation and chat systems |
+| **Bigglesworth** | AI-powered prospect agent — automated sales intelligence and pipeline management |
+| **blocksign** | Digital signature and document workflow platform |
+| **create-devblock-app** | Official project scaffolding CLI for Next.js, Expo, and Node/Express *(open source)* |
+| **DevBlock Whisper Server** | Self-hosted GPU-accelerated speech-to-text with OpenAI-compatible API |
+
+**Internal tooling**: Sage Desktop (AI agent desktop app), Sage Platform (inference proxy), and a growing suite of automation agents powering our own operations.
+
+---
+
+## Tech Stack
+
+**Cloudflare-native** — Workers, D1, R2, Pages, Queues, Tunnels
 
 | Layer | Technologies |
 |---|---|
-| **Frontend** | React, Next.js, Vue, TypeScript |
-| **Backend** | Node.js, Python, Go, Java, .NET |
-| **Mobile** | React Native, Flutter, Swift, Kotlin |
-| **Database** | PostgreSQL, MySQL, MongoDB, Redis |
-| **Cloud** | AWS, Google Cloud, Azure |
-| **DevOps** | Docker, Kubernetes, GitHub Actions, Terraform |
+| **Frontend** | Next.js, React, TypeScript, Tailwind CSS |
+| **Backend** | Hono, Cloudflare Workers, Node.js, Python |
+| **Database** | D1 (SQLite at edge), PostgreSQL, Prisma ORM |
+| **Runtime** | Bun, Node.js, Python |
+| **Desktop** | Electron |
+| **AI/ML** | Self-hosted inference, LLM orchestration, Whisper |
+| **DevOps** | GitHub Actions, Vercel, Cloudflare Pages, Docker |
 
 ---
 
-## 🤝 How We Work
+## How We Build
 
-We believe great software is built on great collaboration. Our process is transparent, iterative, and client-focused:
-
-1. **Discovery** — We dig into your goals, users, and constraints to define the right solution.
-2. **Planning** — Roadmaps, architecture decisions, and timelines are set together.
-3. **Development** — Agile sprints with regular demos and open communication throughout.
-4. **QA & Testing** — Rigorous testing ensures quality before anything ships.
-5. **Launch** — We handle deployment and make sure everything goes smoothly.
-6. **Support** — Ongoing maintenance, monitoring, and iteration post-launch.
+1. **Cloudflare-first** — We default to edge-native infrastructure. Workers over containers, D1 over managed DBs, R2 over S3. We reach for heavier tooling only when the edge isn't enough.
+2. **AI throughout** — AI isn't a feature we bolt on. It's in our toolchain, our products, and our own operations.
+3. **Systems, not patches** — Every solution is built to scale. Recurring problems get automated away. Manual work is technical debt.
+4. **Performance-obsessed** — Latency budgets, edge compute, and real-time observability are non-negotiable.
 
 ---
 
-## 📁 Repository Structure
+## Open Source
 
-```
-devblock-technologies/
-├── apps/           # Client-facing applications
-├── services/       # Backend microservices
-├── libs/           # Shared libraries and utilities
-├── infra/          # Infrastructure and deployment configs
-├── docs/           # Documentation and guides
-└── scripts/        # Developer tooling and automation
-```
+- **[create-devblock-app](https://github.com/DEVBLOCK-TECHNOLOGIES-LIMITED/create-devblock-app)** — Project scaffolding CLI for modern JavaScript/TypeScript stacks
 
 ---
 
-## 🧑‍💻 Getting Started (Internal Development)
+## Contact
 
-### Prerequisites
-
-- Node.js v18+
-- Docker & Docker Compose
-- Git
-
-### Setup
-
-```bash
-# Clone the repository
-git clone https://github.com/devblock-technologies/devblock.git
-cd devblock
-
-# Install dependencies
-npm install
-
-# Copy environment variables
-cp .env.example .env
-
-# Start local development environment
-docker-compose up -d
-npm run dev
-```
+- Website: [devblocktechnologies.com.ng](https://devblocktechnologies.com.ng)
+- Email: console@devblocktechnologies.com.ng
 
 ---
 
-## 📬 Contact Us
-
-We'd love to hear about your project.
-
-- 🌐 Website: [www.devblock.io](https://www.devblock.io)
-- 📧 Email: hello@devblock.io
-- 💼 LinkedIn: [linkedin.com/company/devblock-technologies](https://linkedin.com/company/devblock-technologies)
-- 🐦 Twitter/X: [@DevBlockTech](https://twitter.com/DevBlockTech)
-
----
-
-## 📄 License
-
-© 2024 DevBlock Technologies. All rights reserved.
-
----
-
-*Built with purpose. Delivered with precision.*
+© 2026 DevBlock Technologies Limited. All rights reserved.
