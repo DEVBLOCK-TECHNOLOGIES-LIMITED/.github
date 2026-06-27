@@ -56,7 +56,7 @@ DevBlock Technologies builds AI-powered platforms and developer tools that turn 
 ## Contact
 
 - Website: [devblocktechnologies.com.ng](https://devblocktechnologies.com.ng)
-- Email: console@devblocktechnologies.com.ng
+- Email: console@devblocktechnologies.com
 
 ---
 
