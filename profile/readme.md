@@ -12,11 +12,10 @@ DevBlock Technologies builds AI-powered platforms and developer tools that turn 
 |---|---|
 | **DevBlock Console** | Unified management dashboard for DevBlock SDK integrations — real-time observability, analytics, and operations |
 | **PayIQ** | The Global AI Banking Concierge — intelligent financial services platform |
-| **ConverseIQ** | LLM-powered backend services for intelligent conversation and chat systems |
+| **Mesage AI** | LLM-powered backend services for intelligent conversation and chat systems |
 | **Bigglesworth** | AI-powered prospect agent — automated sales intelligence and pipeline management |
-| **blocksign** | Digital signature and document workflow platform |
 | **create-devblock-app** | Official project scaffolding CLI for Next.js, Expo, and Node/Express *(open source)* |
-| **DevBlock Whisper Server** | Self-hosted GPU-accelerated speech-to-text with OpenAI-compatible API |
+| **Sage Voice** | Self-hosted GPU-accelerated speech-to-text with OpenAI-compatible API |
 
 **Internal tooling**: Sage Desktop (AI agent desktop app), Sage Platform (inference proxy), and a growing suite of automation agents powering our own operations.
 
