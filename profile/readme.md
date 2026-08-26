@@ -1,8 +1,8 @@
-# DevBlock Technologies
+# DevBlock Technology Limited
 
 > AI-native software engineering — from infrastructure to interface.
 
-DevBlock Technologies builds AI-powered platforms and developer tools that turn complex workflows into simple, scalable products. We operate at the intersection of cloud infrastructure, applied AI, and product engineering.
+DevBlock Technology Limited builds AI-powered platforms and developer tools that turn complex workflows into simple, scalable products. We operate at the intersection of cloud infrastructure, applied AI, and product engineering.
 
 ---
 
