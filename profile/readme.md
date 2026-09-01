@@ -11,9 +11,7 @@ DevBlock Technology Limited builds AI-powered platforms and developer tools that
 | Product | Description |
 |---|---|
 | **DevBlock Console** | Unified management dashboard for DevBlock SDK integrations — real-time observability, analytics, and operations |
-| **PayIQ** | The Global AI Banking Concierge — intelligent financial services platform |
 | **Mesage AI** | LLM-powered backend services for intelligent conversation and chat systems |
-| **Bigglesworth** | AI-powered prospect agent — automated sales intelligence and pipeline management |
 | **create-devblock-app** | Official project scaffolding CLI for Next.js, Expo, and Node/Express *(open source)* |
 | **Sage Voice** | Self-hosted GPU-accelerated speech-to-text with OpenAI-compatible API |
 
@@ -39,10 +37,9 @@ DevBlock Technology Limited builds AI-powered platforms and developer tools that
 
 ## How We Build
 
-1. **Cloudflare-first** — We default to edge-native infrastructure. Workers over containers, D1 over managed DBs, R2 over S3. We reach for heavier tooling only when the edge isn't enough.
-2. **AI throughout** — AI isn't a feature we bolt on. It's in our toolchain, our products, and our own operations.
-3. **Systems, not patches** — Every solution is built to scale. Recurring problems get automated away. Manual work is technical debt.
-4. **Performance-obsessed** — Latency budgets, edge compute, and real-time observability are non-negotiable.
+1. **AI throughout** — AI isn't a feature we bolt on. It's in our toolchain, our products, and our own operations.
+2. **Systems, not patches** — Every solution is built to scale. Recurring problems get automated away. Manual work is technical debt.
+3. **Performance-obsessed** — Latency budgets, edge compute, and real-time observability are non-negotiable.
 
 ---
 
@@ -54,9 +51,9 @@ DevBlock Technology Limited builds AI-powered platforms and developer tools that
 
 ## Contact
 
-- Website: [Devblocktechnologies](https://www.devblocktechnologies.com)
+- Website: [Devblock Technology Limited](https://www.devblocktechnologies.com)
 - Email: contact@devblocktechnologies.com
 
 ---
 
-© 2026 DevBlock Technologies Limited. All rights reserved.
+© 2026 DevBlock Technology Limited. All rights reserved.
