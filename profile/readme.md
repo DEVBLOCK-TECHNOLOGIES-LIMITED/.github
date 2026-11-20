@@ -10,10 +10,9 @@ DevBlock Technology Limited builds AI-powered platforms and developer tools that
 
 | Product | Description |
 |---|---|
-| **DevBlock Console** | Unified management dashboard for DevBlock SDK integrations — real-time observability, analytics, and operations |
+| **Devblock Ottral** | Unified management dashboard for DevBlock SDK integrations — real-time observability, analytics, and operations |
 | **Mesage AI** | LLM-powered backend services for intelligent conversation and chat systems |
 | **create-devblock-app** | Official project scaffolding CLI for Next.js, Expo, and Node/Express *(open source)* |
-| **Sage Voice** | Self-hosted GPU-accelerated speech-to-text with OpenAI-compatible API |
 
 **Internal tooling**: Sage Desktop (AI agent desktop app), Sage Platform (inference proxy), and a growing suite of automation agents powering our own operations.
 
